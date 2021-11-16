@@ -1,0 +1,13 @@
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.exe
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.deps.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.runtimeconfig.dev.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.dll
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\bin\Debug\netcoreapp3.1\Exponent.pdb
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.csprojAssemblyReference.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfoInputs.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.AssemblyInfo.cs
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.csproj.CoreCompileInputs.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.dll
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.pdb
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\Exponent\obj\Debug\netcoreapp3.1\Exponent.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.exe
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.deps.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.runtimeconfig.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.runtimeconfig.dev.json
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.dll
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\bin\Debug\netcoreapp3.1\BytPlats.pdb
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.csprojAssemblyReference.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.AssemblyInfoInputs.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.AssemblyInfo.cs
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.csproj.CoreCompileInputs.cache
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.dll
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.pdb
+C:\Users\loke_\Documents\GitHub\UppgifterProgrammering\Referensanrop\BytPlats\obj\Debug\netcoreapp3.1\BytPlats.genruntimeconfig.cache
